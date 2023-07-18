@@ -1,0 +1,24 @@
+{
+  "name": "reedwilson-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restas13/ReedWilson-SQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restas13/ReedWilson-SQL/issues"
+  },
+  "homepage": "https://github.com/restas13/ReedWilson-SQL#readme",
+  "dependencies": {
+    "inquirer": "^9.2.8",
+    "mysql2": "^2.1.0"
+  }
+}
