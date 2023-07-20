@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/restas13/ReedWilson-SQL#readme",
   "dependencies": {
-    "inquirer": "^9.2.8",
-    "mysql2": "^2.1.0"
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.1.0",
+    "asciiart-logo": "0.2.6"
   }
 }
